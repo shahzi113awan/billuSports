@@ -1,0 +1,53 @@
+.widget_tz_socials ul.icons-small {
+    font-size: 16px;
+   }
+   .widget_tz_socials ul.inline-mode {
+       display: flex;
+       
+       vertical-align: middle;
+   }
+   .widget ul {
+       list-style: none;
+       margin-bottom: 0;
+   }
+   .widget_tz_socials ul {
+       list-style-type: none;
+       margin: 0;
+       display: block;
+   }
+   ul { 
+       margin-left: 100px;
+       
+       list-style-type: disc;
+   }
+   ul, ol {
+       margin: 0 0 24px;
+       padding: 0;
+       list-style-position: inside;
+   }
+   *, *:before, *:after {
+       -webkit-box-sizing: inherit;
+       -moz-box-sizing: inherit;
+       box-sizing: inherit;
+   }
+   user agent stylesheet
+   ul {
+       display: block;
+       list-style-type: disc;
+       margin-block-start: 1em;
+       margin-block-end: 1em;
+       margin-inline-start: 0px;
+       margin-inline-end: 0px;
+       padding-inline-start: 40px;
+   }
+   .top-widgets-left, .top-widgets-right {
+       text-align: center;
+   }
+   li{
+       
+       margin: 5px  ;
+   }
+   div{
+      height: 50px;
+       background-color: #3E3E3E;
+   }
